@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rowen Richardson</h1>
-<h3 align="center">A Passionist Data Analyst. Skilled in Excel, Power Bi| Data Cleaning, Reporting and Visualisation</h3>
+<h3 align="center">A Passionate Data Analyst. Skilled in Excel, Power Bi| Data Cleaning, Reporting and Visualisation</h3>
 
 - 🔭 I’m currently working on [A Car Market Place](https://github.com/Rowen-Richardson/Imoto-Build)
 
